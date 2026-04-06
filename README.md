@@ -38,6 +38,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 
 **Norton’s equivalent circuit**
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/822ebdd2-29f5-4a9d-ad30-2e2435ea9423" />
 
 
 **PROCEDURE:**
@@ -87,8 +88,10 @@ Vi (volts)	RTh (Ω)
 To measure IN or Isc
 
 Vi (volts)	IN (amps)
-	
+	<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/ae303a4a-c200-4a51-ab6b-c78899b1f259" />
+
 **MODEL CALCULATION:**
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/5d27b398-d953-4999-9def-d3db03a9dab2" />
 
 Practical value of IL (from tabulation 1) =2.3mA
 
@@ -97,6 +100,7 @@ Practical value of IL (from tabulation 1) =2.3mA
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
+<img width="1600" height="1394" alt="image" src="https://github.com/user-attachments/assets/f135766a-c07c-4cbc-803f-c18269bdf92f" />
  
 
 
